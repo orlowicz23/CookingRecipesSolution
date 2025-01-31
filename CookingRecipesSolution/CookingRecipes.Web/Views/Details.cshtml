@@ -1,0 +1,9 @@
+@model CookingRecipes.Data.Entities.Recipe
+
+<h2>@Model.Title</h2>
+<p>Czas przygotowania: @Model.PreparationTimeMinutes min</p>
+<p>Porcje: @Model.Servings</p>
+<p>Kategoria: @Model.Category?.Name</p>
+
+<h3>Składniki:</h3>
+@Html.Partial("_IngredientListPartial", Model.RecipeIngredients)

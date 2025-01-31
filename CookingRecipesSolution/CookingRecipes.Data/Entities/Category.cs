@@ -1,0 +1,11 @@
+namespace CookingRecipes.Data.Entities
+{
+    public class Category
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+
+        // Jeden Category -> wiele Recipe
+        public ICollection<Recipe> Recipes { get; set; }
+    }
+}
