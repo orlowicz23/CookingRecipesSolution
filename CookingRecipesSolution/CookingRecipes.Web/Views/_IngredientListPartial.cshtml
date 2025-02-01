@@ -1,0 +1,8 @@
+@model IEnumerable<CookingRecipes.Data.Entities.RecipeIngredient>
+
+<ul>
+@foreach(var ri in Model)
+{
+    <li>@ri.Ingredient.Name – @ri.Amount @ri.Unit</li>
+}
+</ul>

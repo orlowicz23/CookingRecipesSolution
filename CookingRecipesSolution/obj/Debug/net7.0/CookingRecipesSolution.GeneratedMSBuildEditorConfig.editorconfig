@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CookingRecipesSolution
+build_property.RootNamespace = CookingRecipesSolution
+build_property.ProjectDir = /Users/aa/Desktop/CookingRecipesSolution/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/aa/Desktop/CookingRecipesSolution
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/aa/Desktop/CookingRecipesSolution/CookingRecipes.Web/Views/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29va2luZ1JlY2lwZXMuV2ViL1ZpZXdzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aa/Desktop/CookingRecipesSolution/CookingRecipes.Web/Views/_IngredientListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29va2luZ1JlY2lwZXMuV2ViL1ZpZXdzL19JbmdyZWRpZW50TGlzdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
