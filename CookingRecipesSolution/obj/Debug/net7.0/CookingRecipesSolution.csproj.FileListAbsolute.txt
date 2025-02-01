@@ -1,0 +1,8 @@
+/Users/aa/Desktop/CookingRecipesSolution/obj/Debug/net7.0/CookingRecipesSolution.csproj.AssemblyReference.cache
+/Users/aa/Desktop/CookingRecipesSolution/obj/Debug/net7.0/CookingRecipesSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aa/Desktop/CookingRecipesSolution/obj/Debug/net7.0/CookingRecipesSolution.AssemblyInfoInputs.cache
+/Users/aa/Desktop/CookingRecipesSolution/obj/Debug/net7.0/CookingRecipesSolution.AssemblyInfo.cs
+/Users/aa/Desktop/CookingRecipesSolution/obj/Debug/net7.0/CookingRecipesSolution.csproj.CoreCompileInputs.cache
+/Users/aa/Desktop/CookingRecipesSolution/obj/Debug/net7.0/CookingRecipesSolution.MvcApplicationPartsAssemblyInfo.cache
+/Users/aa/Desktop/CookingRecipesSolution/obj/Debug/net7.0/CookingRecipesSolution.RazorAssemblyInfo.cache
+/Users/aa/Desktop/CookingRecipesSolution/obj/Debug/net7.0/CookingRecipesSolution.RazorAssemblyInfo.cs
